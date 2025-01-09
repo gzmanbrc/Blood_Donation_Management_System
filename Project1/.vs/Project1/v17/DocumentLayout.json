@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|c:\\users\\gzman\\desktop\\bloodbank_database_management_system_project\\project1\\transfers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|solutionrelative:transfers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|c:\\users\\gzman\\desktop\\bloodbank_database_management_system_project\\project1\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|solutionrelative:patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|c:\\users\\gzman\\desktop\\bloodbank_database_management_system_project\\project1\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|c:\\users\\gzman\\desktop\\bloodbank_database_management_system_project\\project1\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|solutionrelative:frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|solutionrelative:frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|c:\\users\\gzman\\desktop\\bloodbank_database_management_system_project\\project1\\bloods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC39B33D-B033-4732-84F7-5FADB5514BD8}|Project1.csproj|solutionrelative:bloods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 190,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\Patients.cs",
+              "RelativeDocumentMoniker": "Patients.cs",
+              "ToolTip": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\Patients.cs",
+              "RelativeToolTip": "Patients.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAqwJwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:48:27.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transfers.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\Transfers.cs",
+              "RelativeDocumentMoniker": "Transfers.cs",
+              "ToolTip": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\Transfers.cs",
+              "RelativeToolTip": "Transfers.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:50:11.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmReport.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\frmReport.cs",
+              "RelativeDocumentMoniker": "frmReport.cs",
+              "ToolTip": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\frmReport.cs",
+              "RelativeToolTip": "frmReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:49:56.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\frmReport.cs",
+              "RelativeDocumentMoniker": "frmReport.cs",
+              "ToolTip": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\frmReport.cs [Design]",
+              "RelativeToolTip": "frmReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:49:53.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\DB.cs",
+              "RelativeDocumentMoniker": "DB.cs",
+              "ToolTip": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\DB.cs",
+              "RelativeToolTip": "DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:49:20.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bloods.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\Bloods.cs",
+              "RelativeDocumentMoniker": "Bloods.cs",
+              "ToolTip": "C:\\Users\\gzman\\Desktop\\BloodBank_Database_Management_System_Project\\Project1\\Bloods.cs",
+              "RelativeToolTip": "Bloods.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:49:13.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
