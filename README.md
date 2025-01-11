@@ -1,11 +1,5 @@
 # Blood Donation Database Management System
 
-## Contributors
-- [Gizem Anbarcı] 
-- [Yasemin Demir]
-- [Efrail Furkan Koca] 
-- [Ayça Aktaş]
-
 This project is a **Blood Donation Database Management System** designed to optimize blood donation and management processes for blood banks or hospitals.
 
 ![App's home screen](https://raw.githubusercontent.com/gzmanbrc/Blood_Donation_Management_System/08198013b0bb26b57284069988ac7260348764f6/BloodBank_App_Images/Screenshot%202025-01-09%20153347.png)
@@ -43,3 +37,9 @@ This system facilitates:
 - **Blood Stock**: Tracks available blood units and their expiration.
 - **Transfers**: Manages blood transfer records.
 - **Employees**: Manages staff information and role-based access.
+
+   ## Contributors
+- Gizem Anbarcı 
+- Yasemin Demir
+- Efrail Furkan Koca
+- Ayça Aktaş
